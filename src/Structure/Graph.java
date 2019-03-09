@@ -19,6 +19,9 @@ public class Graph {
 		this.nodes = nodes;
 	}
 	
+	public Graph() {
+		super();
+	}
 	public Graph(String string) {
 		super();
 		
